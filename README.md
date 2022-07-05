@@ -1,2 +1,2 @@
 # hello-world
-repo-exercício-cubos
+Repositório criado como primeira atividade para a CubosAcademy nas aulas de Git/Github.
